@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+     background: url(../images/bg.png);
+}
+.container{
+	width: 800px;
+	position: relative;
+	margin: 0 auto;
+}
+.headingDiv{
+	width: 200px;
+	margin: 10px auto;
+	border: 1px solid red;
+	background-color: white;
+	font-size: 2em;
+	color: orange;
+}
+.scoreDiv{
+	width: 600px;
+	height: 30px;
+	background-color: #fff;
+	overflow: hidden;
+	border: 5px dashed #437E7F;
+	border-radius: 15px;
+	margin: 10px auto;
+}
+.span{
+	size:20px;
+	color:brown;
+}
+.spanScore{
+	color: red;
+}
+.showDiv{
+	width:800px; 
+	height:410px;
+	border: 1px solid cornflowerblue;
+	margin: auto;
+	background-color: #fff;
+}
+.btn{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+}
+.doDiv{
+	width: 800px;
+	height: 30px;
+	margin: 0 auto;
+	border: 0;
+}
+#btn1{
+	width: 60px;
+	height: 30px;
+	background: url(../images/1.png);
+}
